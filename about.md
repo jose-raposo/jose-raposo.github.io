@@ -5,3 +5,4 @@ I'm José Neto, a self-taught Data Scientist for 3 years with a strong backgroun
 <ul>- Develop end-to-end solutions in Data Science, from ETL to Deployment</ul>
 <ul>- Extract financial valuable information from data to guide business decison making</ul>
 <ul>- Generate intelligent and scalable data solutions using AWS Cloud</ul>
+<ul>- Coordenate and work in multiprofessional team to achieve state of the art results</ul>
