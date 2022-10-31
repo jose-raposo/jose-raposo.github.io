@@ -1,4 +1,4 @@
-# Feynman Technologies
+# My blog page
 
-My Blog page to talk about Data Science universe, Machine Learning and related stuff!
+Blog page to talk about Data Science universe, Machine Learning and related stuff!
 ![image](connection.png)
